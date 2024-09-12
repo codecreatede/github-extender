@@ -3,9 +3,6 @@
 - easier github actions 
 - requires only and username and the number of the reporsitories to the user and it will make all the git clone clients for the user. 
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
+Gaurav Sablok \
 University of Potsdam \
 Potsdam,Germany
